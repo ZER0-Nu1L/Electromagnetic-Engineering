@@ -1,0 +1,4 @@
+cd desktop
+pyuic5 -o Changemain.py MainWin.ui
+pyrcc5 -o source_rc.py source.qrc
+pyinstaller -i e.ico -w Project.py

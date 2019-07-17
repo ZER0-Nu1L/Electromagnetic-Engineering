@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>Triangle.png</file>
+    <file>Rectanglepng.png</file>
+    <file>Pentagon.png</file>
+    <file>Hexagon.png</file>
+    <file>Heptagon.png</file>
+  </qresource>
+</RCC>
