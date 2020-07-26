@@ -1,4 +1,4 @@
-# Physical-programming
+# Electromagnetic Engineering
 UESTC大学物理期末自拟编程题
 ——在电流强度变化的直导线产生的磁场中任意形状线框运动产生电动势
 
@@ -13,6 +13,6 @@ Changemain.py用于界面调参，
 可执行文件由于和DDL动态链接挂钩
 放在了GUI\Project\Project.exe，做了图标以示区分
 
-最后感谢沈垚杰帮我解决了图片资源文件的打包问题，感谢陪跑！！Thanks♪(･ω･)ﾉ
+> 最后感谢沈垚杰帮我解决了图片资源文件的打包问题，感谢陪跑！！Thanks♪(･ω･)ﾉ
 
 详见：https://www.zer0-nu1l.com/2019/06/01/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/#more
